@@ -1,0 +1,73 @@
+2022-12-21 00:12:951 INFO  RegisterPage :89 - Click on 'REGISTER' Link<br>
+2022-12-21 00:12:801 INFO  RegisterPage :89 - Click on 'REGISTER' Link<br>
+2022-12-21 00:12:865 INFO  RegisterPage :148 - Click on 'REGISTER' button<br>
+2022-12-21 00:12:904 INFO  RegisterPage :148 - Click on 'REGISTER' button<br>
+2022-12-21 00:12:841 INFO  RegisterPage :91 - Click on 'REGISTER' Link<br>
+2022-12-21 00:12:923 INFO  RegisterPage :104 - Select 'Male' radio button<br>
+2022-12-21 00:12:02 INFO  RegisterPage :113 - Enter Firstname : 'Harshid' to firstName field<br>
+2022-12-21 00:12:83 INFO  RegisterPage :119 - Enter Lastname : 'Prime' to lastName field<br>
+2022-12-21 00:12:385 INFO  RegisterPage :126 - Select day : '20', month : 'February', year : '1991'<br>
+2022-12-21 00:12:472 INFO  RegisterPage :132 - Enter Email : '9d7wd@gmail.com' to email field<br>
+2022-12-21 00:12:549 INFO  RegisterPage :138 - Enter Password : 'Prime123' to password field<br>
+2022-12-21 00:12:627 INFO  RegisterPage :144 - Enter Confirm password : 'Prime123' to confirm password field<br>
+2022-12-21 00:12:253 INFO  RegisterPage :150 - Click on 'REGISTER' button<br>
+2022-12-21 00:12:539 INFO  RegisterPage :91 - Click on 'REGISTER' Link<br>
+2022-12-21 00:12:603 INFO  RegisterPage :104 - Select 'Male' radio button<br>
+2022-12-21 00:12:686 INFO  RegisterPage :113 - Enter Firstname : 'Harshid' to firstName field<br>
+2022-12-21 00:12:758 INFO  RegisterPage :119 - Enter Lastname : 'Prime' to lastName field<br>
+2022-12-21 00:12:12 INFO  RegisterPage :126 - Select day : '20', month : 'February', year : '1991'<br>
+2022-12-21 00:12:93 INFO  RegisterPage :132 - Enter Email : 'gvZUr@gmail.com' to email field<br>
+2022-12-21 00:12:168 INFO  RegisterPage :138 - Enter Password : 'Prime123' to password field<br>
+2022-12-21 00:12:231 INFO  RegisterPage :144 - Enter Confirm password : 'Prime123' to confirm password field<br>
+2022-12-21 00:12:605 INFO  RegisterPage :150 - Click on 'REGISTER' button<br>
+2022-12-21 00:12:448 INFO  RegisterPage :168 - Get your reg completed text : Your registration completed<br>
+2022-12-21 00:12:788 INFO  RegisterPage :175 - Click on 'CONTINUE' button<br>
+2022-12-21 00:12:832 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 00:12:873 INFO  LoginPage :52 - Getting welcome text Welcome, Please Sign In!<br>
+2022-12-21 00:12:955 INFO  LoginPage :65 - Enter email harshid.prime1@gmail.com to email field <br>
+2022-12-21 00:12:35 INFO  LoginPage :71 - Enter password Harshid@123 to password field <br>
+2022-12-21 00:12:383 INFO  LoginPage :77 - Clicking on Login Button <br>
+2022-12-21 00:12:419 INFO  LoginPage :83 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-21 01:12:744 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 01:12:831 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
+2022-12-21 01:12:825 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 01:12:420 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
+2022-12-21 01:12:28 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 01:12:624 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
+2022-12-21 01:12:69 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 01:12:179 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
+2022-12-21 01:12:513 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 01:12:617 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
+2022-12-21 01:12:694 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 01:12:799 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
+2022-12-21 11:12:277 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 11:12:500 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
+2022-12-21 11:12:244 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 11:12:308 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
+2022-12-21 11:12:46 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 11:12:200 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
+2022-12-21 11:12:226 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 11:12:400 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
+2022-12-21 12:12:465 INFO  BuildYourOwnComputerPage :63 - Click on Product<br>
+2022-12-21 12:12:564 INFO  BuildYourOwnComputerPage :69 - Get productName text : Build your own computer<br>
+2022-12-21 12:12:860 INFO  BuildYourOwnComputerPage :76 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'<br>
+2022-12-21 12:12:109 INFO  BuildYourOwnComputerPage :82 - Select RAM '8GB [+$60.00]'<br>
+2022-12-21 12:12:238 INFO  BuildYourOwnComputerPage :89 - Select HDD '400 GB [+$100.00]'<br>
+2022-12-21 12:12:294 INFO  BuildYourOwnComputerPage :99 - Select HDD 'Vista Home [+$50.00]'<br>
+2022-12-21 12:12:467 INFO  BuildYourOwnComputerPage :109 - Select Software '[[ChromeDriver: chrome on WINDOWS (9e4de1ecc12afc12f8a2e1d961117a01)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-12-21 12:12:598 INFO  BuildYourOwnComputerPage :117 - Click on 'ADD TO CART' Button<br>
+2022-12-21 13:12:431 INFO  HomePage :102 - Click on 'Computers' tab <br>
+2022-12-21 13:12:865 INFO  HomePage :102 - Click on 'Computers' tab <br>
+2022-12-21 15:12:876 INFO  HomePage :102 - Click on 'Computers' tab <br>
+2022-12-21 15:12:198 INFO  HomePage :102 - Click on 'Computers' tab <br>
+2022-12-21 15:12:993 INFO  HomePage :102 - Click on 'Computers' tab <br>
+2022-12-21 15:12:25 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 15:12:71 INFO  LoginPage :52 - Getting welcome text Welcome, Please Sign In!<br>
+2022-12-21 15:12:263 INFO  LoginPage :65 - Enter email harshid.prime1@gmail.com to email field <br>
+2022-12-21 15:12:338 INFO  LoginPage :71 - Enter password Harshid@123 to password field <br>
+2022-12-21 15:12:673 INFO  LoginPage :77 - Clicking on Login Button <br>
+2022-12-21 15:12:720 INFO  LoginPage :83 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-21 15:12:834 INFO  LoginPage :59 - Clicking on Login link <br>
+2022-12-21 15:12:972 INFO  HomePage :60 - Checking is loginLink displayed : Log in<br>
